@@ -1,4 +1,7 @@
 # heart-prediction-system
+
+VERY IMPORTANT 
+https://www.researchgate.net/publication/331589020_Heart_Disease_Prediction_System
                                                    Reference 
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
